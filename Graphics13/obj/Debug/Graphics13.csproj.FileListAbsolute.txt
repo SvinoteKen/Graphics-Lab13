@@ -1,0 +1,10 @@
+C:\Users\MSI\source\repos\Graphics13\Graphics13\bin\Debug\Graphics13.exe.config
+C:\Users\MSI\source\repos\Graphics13\Graphics13\bin\Debug\Graphics13.exe
+C:\Users\MSI\source\repos\Graphics13\Graphics13\bin\Debug\Graphics13.pdb
+C:\Users\MSI\source\repos\Graphics13\Graphics13\obj\Debug\Graphics13.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\Graphics13\Graphics13\obj\Debug\Graphics13.Form1.resources
+C:\Users\MSI\source\repos\Graphics13\Graphics13\obj\Debug\Graphics13.Properties.Resources.resources
+C:\Users\MSI\source\repos\Graphics13\Graphics13\obj\Debug\Graphics13.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\Graphics13\Graphics13\obj\Debug\Graphics13.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Graphics13\Graphics13\obj\Debug\Graphics13.exe
+C:\Users\MSI\source\repos\Graphics13\Graphics13\obj\Debug\Graphics13.pdb
